@@ -3,4 +3,3 @@ class Greeter
         puts "HELLO MY FRIEND <3"
     end
 end
-
